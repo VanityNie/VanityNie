@@ -11,8 +11,8 @@
   &nbsp;
 
   <!-- 社交 / 链接 -->
-  <a href="https://github.com/VanityNie?tab=followers"><img src="https://img.shields.io/badge/Followers-grey?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/VanityNie?tab=followers"><img src="https://img.shields.io/github/followers/VanityNie?label=Followers&style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=a374ff"/></a>
+  <a href="mailto:vanitynie@qq.com"><img src="https://img.shields.io/badge/Email-Contact-00f0ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 
 </div>
 

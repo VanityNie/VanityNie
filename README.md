@@ -86,7 +86,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/VanityNie?label=Followers&style=for-the-badge&color=a374ff&logo=github&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/github/repos/VanityNie?label=Public%20Repos&style=for-the-badge&color=00f0ff&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/public-repos/VanityNie?label=Public%20Repos&amp;style=for-the-badge&amp;color=00f0ff&amp;logo=github&amp;logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/github/commit-activity/y/VanityNie/VanityNie?label=Commits%2FYr&style=for-the-badge&color=76b900&logo=git&logoColor=white"/>
 </div>
@@ -94,11 +94,11 @@
 <!-- 综合统计 + 语言占比：并排放置（已加防缓存参数 & 规范 HTML 语法） -->
 <div align="center">
   <a href="https://github.com/VanityNie">
-    <img height="170" src="https://github-readme-stats-gamma-rust-63.vercel.app/api?username=VanityNie&show_icons=true&hide_border=true&theme=github-dark&bg_color=0d1117&title_color=00f0ff&icon_color=a374ff&text_color=c9d1d9&include_all_commits=true&cache_seconds=1800&v=1" />
+    <img height="170" src="https://github-readme-stats-gamma-rust-63.vercel.app/api?username=VanityNie&amp;show_icons=true&amp;hide_border=true&amp;theme=github-dark&amp;bg_color=0d1117&amp;title_color=00f0ff&amp;icon_color=a374ff&amp;text_color=c9d1d9&amp;include_all_commits=true&amp;cache_seconds=1800&amp;v=2" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/VanityNie">
-    <img height="170" src="https://github-readme-stats-gamma-rust-63.vercel.app/api/top-langs/?username=VanityNie&layout=compact&hide_border=true&theme=github-dark&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800&v=1" />
+    <img height="170" src="https://github-readme-stats-gamma-rust-63.vercel.app/api/top-langs/?username=VanityNie&amp;layout=compact&amp;hide_border=true&amp;theme=github-dark&amp;bg_color=0d1117&amp;title_color=00f0ff&amp;text_color=c9d1d9&amp;langs_count=6&amp;cache_seconds=1800&amp;v=2" />
   </a>
 </div>
 
